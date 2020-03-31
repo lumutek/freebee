@@ -1,4 +1,4 @@
-# test3
+# freebee [test 2]
 This Android app is currently in development under MIT open-source licensing. 
 The purpose of this app is to create a mobile platform that facilitates the real-time listing of 
 resource opportunities and their location, the efficient distribution of free/low-cost goods
