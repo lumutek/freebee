@@ -1,5 +1,5 @@
 # freebee
-Helping us live through the hard times, and thrive in the good times.
+Helping us live through the hard times, and thrive through the good times.
 
 # freebee [test 2]
 This Android app is currently in development under MIT open-source licensing. 
