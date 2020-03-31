@@ -14,9 +14,9 @@ and code is being written to link listings to map locations. Ratings functionali
 developed.
 
 As of 03/30/2020, development group members include: 
-Lukas D. Mueller (Lead)
-Conan Minihan
-Nathan Kindt
+Lukas D. Mueller (Lead),
+Conan Minihan,
+Nathan Kindt,
 Praj Mohan
 
 The project is expected to have several contributers under the MIT open-source license.
@@ -29,7 +29,9 @@ In Android Studio, first make sure that the Flutter and Dart plugins have been d
 In Tools>SDK Manager under the SDK Tools tab, make sure to uncheck the box next to “Hide Obsolete Packages”, and check the boxes next to the following:
 
 •	NDK Side-by-Side
+
 •	Android SDK tools (Obsolete)
+
 •	Google Play Services
 
 Then, select File>New> Import Project, specifying the “freebee” folder that was copied to the AndroidStudioProjects directory. 
