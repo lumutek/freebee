@@ -10,8 +10,10 @@ Currently, the user interface is being refined, database and maps functionality 
 and code is being written to link listings to map locations. Ratings functionality has not yet been 
 developed.
 
-The sole author of the code, as of 03/25/2020, is Lukas D. Mueller, but the project is expected to
-have several contributers under the MIT open-source license.
+Code contributors, as of 03/30/2020, include: 
+Lukas D. Mueller 
 
-This app is currently in the alpha stage of development.
+The project is expected to have several contributers under the MIT open-source license.
+
+
 
